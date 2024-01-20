@@ -1,1 +1,3 @@
-# Fyle-Assessment
+- created this project using HTMl, CSS , JavaScript
+- Netlify Link - https://github-repo-project.netlify.app/
+- Github Repo Link - 
